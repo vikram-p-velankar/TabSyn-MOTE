@@ -1,4 +1,4 @@
-# TableDiffusion
+# TabSyn-MOTE
 
 This is the supporting code for the paper [Enhancing Classification of Imbalanced Data using Diffusion Process.]([https://www.techrxiv.org/users/757062/articles/729160-enhancing-classification-of-imbalanced-data-using-diffusion-process]).
 
@@ -12,6 +12,7 @@ The most notable model from this work is `TabSyn-MOTE`, the first differentially
 ## Citing this work
 
 Truda, Gianluca. "Generating tabular datasets under differential privacy." arXiv preprint arXiv:2308.14784 (2023).
+Hengrui Zhang, Jiani Zhang, Balasubramaniam Srinivasan, Zhengyuan Shen, Xiao Qin, Christos Faloutsos, Huzefa Rangwala, George Karypis. "Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space." arXiv preprint arXiv:2310.09656 (2024).
 
 ```
 @article{truda2023generating,
